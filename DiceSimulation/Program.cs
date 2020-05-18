@@ -6,11 +6,13 @@ namespace DiceSimulation
     {
         static void Main(string[] args)
         {
+            int numberOfDice;
             int nyttUtfall;
             int[] utfall = new int[6];
-            Console.WriteLine("Antal tärningskast: 1000");
+            Console.Write("Ange antal tärningskast: ");
+            numberOfDice = int.Parse(Console.ReadLine());
             Random rand = new Random();
-            for(int i=0;i<1000;i++)
+            for(int i=0;i< numberOfDice; i++)
             {
                 nyttUtfall = rand.Next(0, 6);
                 utfall[nyttUtfall]++;

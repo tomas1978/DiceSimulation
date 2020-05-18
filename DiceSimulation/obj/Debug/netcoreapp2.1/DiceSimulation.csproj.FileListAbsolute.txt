@@ -9,3 +9,14 @@ C:\Users\tomas\Source\Repos\DiceSimulation\obj\Debug\netcoreapp2.1\DiceSimulatio
 C:\Users\tomas\Source\Repos\DiceSimulation\obj\Debug\netcoreapp2.1\DiceSimulation.AssemblyInfo.cs
 C:\Users\tomas\Source\Repos\DiceSimulation\obj\Debug\netcoreapp2.1\DiceSimulation.dll
 C:\Users\tomas\Source\Repos\DiceSimulation\obj\Debug\netcoreapp2.1\DiceSimulation.pdb
+C:\MyRepos\DiceSimulation\DiceSimulation\bin\Debug\netcoreapp2.1\DiceSimulation.deps.json
+C:\MyRepos\DiceSimulation\DiceSimulation\bin\Debug\netcoreapp2.1\DiceSimulation.runtimeconfig.json
+C:\MyRepos\DiceSimulation\DiceSimulation\bin\Debug\netcoreapp2.1\DiceSimulation.runtimeconfig.dev.json
+C:\MyRepos\DiceSimulation\DiceSimulation\bin\Debug\netcoreapp2.1\DiceSimulation.dll
+C:\MyRepos\DiceSimulation\DiceSimulation\bin\Debug\netcoreapp2.1\DiceSimulation.pdb
+C:\MyRepos\DiceSimulation\DiceSimulation\obj\Debug\netcoreapp2.1\DiceSimulation.csprojAssemblyReference.cache
+C:\MyRepos\DiceSimulation\DiceSimulation\obj\Debug\netcoreapp2.1\DiceSimulation.csproj.CoreCompileInputs.cache
+C:\MyRepos\DiceSimulation\DiceSimulation\obj\Debug\netcoreapp2.1\DiceSimulation.AssemblyInfoInputs.cache
+C:\MyRepos\DiceSimulation\DiceSimulation\obj\Debug\netcoreapp2.1\DiceSimulation.AssemblyInfo.cs
+C:\MyRepos\DiceSimulation\DiceSimulation\obj\Debug\netcoreapp2.1\DiceSimulation.dll
+C:\MyRepos\DiceSimulation\DiceSimulation\obj\Debug\netcoreapp2.1\DiceSimulation.pdb

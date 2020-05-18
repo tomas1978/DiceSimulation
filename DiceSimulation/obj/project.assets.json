@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tomas\\Source\\Repos\\DiceSimulation\\DiceSimulation.csproj",
+      "projectUniqueName": "C:\\MyRepos\\DiceSimulation\\DiceSimulation\\DiceSimulation.csproj",
       "projectName": "DiceSimulation",
-      "projectPath": "C:\\Users\\tomas\\Source\\Repos\\DiceSimulation\\DiceSimulation.csproj",
+      "projectPath": "C:\\MyRepos\\DiceSimulation\\DiceSimulation\\DiceSimulation.csproj",
       "packagesPath": "C:\\Users\\tomas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tomas\\Source\\Repos\\DiceSimulation\\obj\\",
+      "outputPath": "C:\\MyRepos\\DiceSimulation\\DiceSimulation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
