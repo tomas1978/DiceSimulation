@@ -20,7 +20,8 @@ namespace DiceSimulation
             for(int i=0;i<6;i++)
             {
                 Console.Write("Antal " + (i + 1) + ": ");
-                Console.WriteLine(utfall[i]);
+                Console.Write(utfall[i]);
+                Console.Write(", relativ frekvens: " + 100*(float)utfall[i] / numberOfDice + " %\n");
             }
         }
     }
