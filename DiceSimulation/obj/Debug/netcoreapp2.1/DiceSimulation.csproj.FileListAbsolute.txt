@@ -1,0 +1,11 @@
+C:\Users\tomas\Source\Repos\DiceSimulation\bin\Debug\netcoreapp2.1\DiceSimulation.deps.json
+C:\Users\tomas\Source\Repos\DiceSimulation\bin\Debug\netcoreapp2.1\DiceSimulation.runtimeconfig.json
+C:\Users\tomas\Source\Repos\DiceSimulation\bin\Debug\netcoreapp2.1\DiceSimulation.runtimeconfig.dev.json
+C:\Users\tomas\Source\Repos\DiceSimulation\bin\Debug\netcoreapp2.1\DiceSimulation.dll
+C:\Users\tomas\Source\Repos\DiceSimulation\bin\Debug\netcoreapp2.1\DiceSimulation.pdb
+C:\Users\tomas\Source\Repos\DiceSimulation\obj\Debug\netcoreapp2.1\DiceSimulation.csprojAssemblyReference.cache
+C:\Users\tomas\Source\Repos\DiceSimulation\obj\Debug\netcoreapp2.1\DiceSimulation.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Source\Repos\DiceSimulation\obj\Debug\netcoreapp2.1\DiceSimulation.AssemblyInfoInputs.cache
+C:\Users\tomas\Source\Repos\DiceSimulation\obj\Debug\netcoreapp2.1\DiceSimulation.AssemblyInfo.cs
+C:\Users\tomas\Source\Repos\DiceSimulation\obj\Debug\netcoreapp2.1\DiceSimulation.dll
+C:\Users\tomas\Source\Repos\DiceSimulation\obj\Debug\netcoreapp2.1\DiceSimulation.pdb
